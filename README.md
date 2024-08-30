@@ -1,4 +1,6 @@
 # EShop
+Live Link - https://shimmering-melba-9be2ff.netlify.app/
+
 
 EShop is a dynamic and modern e-commerce website designed to provide a seamless user experience across all devices. This project showcases various front-end development skills and best practices, utilizing ReactJS and Tailwind CSS to create a responsive and visually appealing website.
 
